@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "config.json": "0.0.4",
     "discord.js": "^12.5.3",
     "express": "^4.17.1",
     "firebase": "^8.7.0"

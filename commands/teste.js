@@ -1,4 +1,4 @@
 const Discord = require('discord.js')
-exports.run = async(client, message, args) {
+exports.run = async(client, message, args) => {
 message.reply("first command!")
 }
